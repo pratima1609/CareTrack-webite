@@ -1,0 +1,6 @@
+{
+  "name": "CareTrack — Quarantine Facility Management System",
+  "description": "Quarantine facility management system for patient temperature tracking, doctor rounds coordination, discharge eligibility verification, and facility performance monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
